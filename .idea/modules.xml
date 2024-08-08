@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BackEndProStudy.iml" filepath="$PROJECT_DIR$/BackEndProStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BackEndProStudy.iml" filepath="$PROJECT_DIR$/.idea/BackEndProStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWorks/HomeWork_01/HomeWork_01.iml" filepath="$PROJECT_DIR$/HomeWorks/HomeWork_01/HomeWork_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Konsultations/Konsultation_01/Konsultation_01.iml" filepath="$PROJECT_DIR$/Konsultations/Konsultation_01/Konsultation_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons/Lesson_01/Lesson_01.iml" filepath="$PROJECT_DIR$/Lessons/Lesson_01/Lesson_01.iml" />
     </modules>
   </component>
 </project>
